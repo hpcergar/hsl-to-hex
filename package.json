@@ -1,11 +1,19 @@
 {
   "name": "hsl-to-hex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Héctor Paúl Cervera-García",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpcergar/hsl-to-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hpcergar/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/hpcergar/hsl-to-hex#readme",
+  "description": ""
 }
